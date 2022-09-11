@@ -1,0 +1,12 @@
+.App {
+    display: flex;
+}
+
+.sideBar {
+    padding: 1rem;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+}

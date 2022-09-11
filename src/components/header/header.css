@@ -1,0 +1,9 @@
+.Header {
+    width: 90vw;
+    height: 5vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    column-gap: 2rem;
+    padding: 1rem;
+}

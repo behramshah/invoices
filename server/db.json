@@ -1,0 +1,51 @@
+{
+    "invoices" : [
+        {
+            "id": 1,
+            "user": "John Smith",
+            "count": 3,
+            "totalprice": 1000,
+            "status": "gözləyir"
+        },
+        {
+            "id": 2,
+            "user": "Bob Marley",
+            "count": 5,
+            "totalprice": 3500,
+            "status": "təsdiqlənib"
+        },
+        {
+            "id": 3,
+            "user": "Lisa Ann",
+            "count": 23,
+            "totalprice": 743.42,
+            "status": "xitam olunub"
+        }
+    ],
+    "goods" : [
+        {
+            "id": 1,
+            "name": "rice",
+            "price": 8,
+            "quantaty": 500
+        },
+        {
+            "id": 2,
+            "name": "olive oil",
+            "price": 18,
+            "quantaty": 700
+        },
+        {
+            "id": 1,
+            "name": "rice",
+            "salmon": 15,
+            "quantaty": 250
+        },
+        {
+            "id": 1,
+            "name": "Ariel",
+            "price": 28,
+            "quantaty": 50
+        }
+    ]
+}
